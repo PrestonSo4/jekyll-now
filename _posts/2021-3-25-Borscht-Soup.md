@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Tes Post!!!
+title: First Test Post!!!
 ---
 
 ```
