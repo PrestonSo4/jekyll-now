@@ -1,3 +1,8 @@
+---
+layout: post
+title: First Tes Post!!!
+---
+
 ```
 print("Hello World")
 if name == "Aw Shit":
