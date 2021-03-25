@@ -5,6 +5,6 @@ title: First Tes Post!!!
 
 ```
 print("Hello World")
-if name == "Aw Shit":
+if name == "hello":
     print("Hey, keep it PG! >;CCC")
 ```
